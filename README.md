@@ -93,55 +93,45 @@ Este enfoque híbrido ofrece performance, escalabilidad e interactividad, manten
 
 ## 📦 Sección Catálogo
 
-Administra la información maestra de productos, servicios, categorías, unidades de medida y precios. Sirve como base central para todas las operaciones del sistema, garantizando datos consistentes y organizados.
-[Ver Lista de Módulos Sección Catálogo](https://github.com/FacTronica/erpfactronica/blob/main/secciones/catalogo.md)
+Administra la información maestra de productos, servicios, categorías, unidades de medida y precios. Sirve como base central para todas las operaciones del sistema, garantizando datos consistentes y organizados
 
 ## 🧾 Sección Ventas
 
 Gestiona todo el ciclo de ventas, desde cotizaciones hasta la emisión de documentos tributarios como facturas, boletas y notas de crédito. Incluye control de clientes, precios especiales, condiciones de pago y seguimiento de ventas.
-[Ver Lista de Módulos Sección Ventas](https://github.com/FacTronica/erpfactronica/blob/main/secciones/ventas.md)
 
 ## 📥 Sección Compras
 
 Controla el proceso de adquisición de bienes y servicios. Permite generar órdenes de compra, registrar recepciones, gestionar proveedores y controlar precios y condiciones de compra.
-[Ver Lista de Módulos Sección Compras](https://github.com/FacTronica/erpfactronica/blob/main/secciones/compras.md)
 
 ## 🚚 Sección Logística
 
 Coordina el flujo de productos desde la recepción hasta la entrega. Incluye gestión de inventarios, bodegas, movimientos internos, despachos y trazabilidad de productos en tiempo real.
-[Ver Lista de Módulos Sección Logística](https://github.com/FacTronica/erpfactronica/blob/main/secciones/logistica.md)
 
 ## 💰 Sección Tesorería
 
 Administra los flujos de caja, cuentas por cobrar y pagar, conciliaciones bancarias y planificación financiera. Brinda visibilidad y control del estado financiero diario de la empresa.
-[Ver Lista de Módulos Sección Tesorería](https://github.com/FacTronica/erpfactronica/blob/main/secciones/tesoreria.md)
 
 ## 🏭 Sección Producción
 
-Controla y gestiona los procesos productivos de la empresa, desde la planificación de la producción hasta el control de insumos, órdenes de trabajo, tiempos y costos de fabricación. Permite transformar materias primas en productos terminados de forma eficiente y trazable, integrándose con inventario, compras y ventas.
-[Ver Lista de Módulos Sección Producción](https://github.com/FacTronica/erpfactronica/blob/main/secciones/produccion.md)
+Controla y gestiona los procesos productivos de la empresa, desde la planificación de la producción hasta el control de insumos, órdenes de trabajo, tiempos y costos de fabricación. Permite transformar materias primas en productos terminados de forma eficiente y trazable, integrándose con inventario, compras y ventas. 
 
 ## ⏱️ Sección Control de Asistencia
 
-Registra y supervisa la asistencia, puntualidad y jornadas laborales del personal. Permite llevar un control detallado de entradas, salidas, horas trabajadas, atrasos, ausencias y permisos, integrándose con el módulo de remuneraciones para el cálculo preciso de sueldos y cumplimiento de normativas laborales.
-[Ver Lista de Módulos Sección Asistencia](https://github.com/FacTronica/erpfactronica/blob/main/secciones/asistencia.md)
+Registra y supervisa la asistencia, puntualidad y jornadas laborales del personal. Permite llevar un control detallado de entradas, salidas, horas trabajadas, atrasos, ausencias y permisos, integrándose con el módulo de remuneraciones para el cálculo preciso de sueldos y cumplimiento de normativas laborales. 
 
 ## 🗂️ Sección Proyectos
 
-Permite planificar, ejecutar y supervisar proyectos internos o para clientes. Gestiona tareas, recursos, presupuestos, tiempos y responsables, facilitando el seguimiento del avance y control de costos en cada etapa del proyecto. Se integra con otras áreas como compras, tesorería y recursos humanos para una gestión integral.
-[Ver Lista de Módulos Sección Proyectos](https://github.com/FacTronica/erpfactronica/blob/main/secciones/proyectos.md)
+Permite planificar, ejecutar y supervisar proyectos internos o para clientes. Gestiona tareas, recursos, presupuestos, tiempos y responsables, facilitando el seguimiento del avance y control de costos en cada etapa del proyecto. Se integra con otras áreas como compras, tesorería y recursos humanos para una gestión integral. 
 
 ## 🤝 Sección CRM
 
-Gestiona las relaciones con los clientes, desde la captación de oportunidades hasta el seguimiento postventa. Permite registrar interacciones, agendar actividades, administrar contactos y analizar el ciclo de vida del cliente para mejorar la atención, fidelización y las oportunidades comerciales.
-[Ver Lista de Módulos Sección CRM](https://github.com/FacTronica/erpfactronica/blob/main/secciones/crm.md)
+Gestiona las relaciones con los clientes, desde la captación de oportunidades hasta el seguimiento postventa. Permite registrar interacciones, agendar actividades, administrar contactos y analizar el ciclo de vida del cliente para mejorar la atención, fidelización y las oportunidades comerciales. 
 
 ## 👥 Sección Remuneraciones
 
 Gestiona contratos, liquidaciones, imposiciones, horas extras, ausencias y todos los aspectos relacionados con la administración del personal, cumpliendo con la normativa laboral vigente.
-[Ver Lista de Módulos Sección Remuneraciones](https://github.com/FacTronica/erpfactronica/blob/main/secciones/remuneraciones.md)
+ 
 
 ## 📘 Sección Contabilidad
 
-Automatiza el registro contable de todas las operaciones del sistema. Genera libros contables, balances, estados financieros y declaraciones tributarias, integrándose con otros módulos para asegurar una contabilidad actualizada y precisa.
-[Ver Lista de Módulos Sección Contabilidad](https://github.com/FacTronica/erpfactronica/blob/main/secciones/contabilidad.md)
+Automatiza el registro contable de todas las operaciones del sistema. Genera libros contables, balances, estados financieros y declaraciones tributarias, integrándose con otros módulos para asegurar una contabilidad actualizada y precisa. 
