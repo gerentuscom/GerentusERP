@@ -1,6 +1,6 @@
-# 📊 ERP Factronica — Guía Profesional para Desarrollo de Gráficos Estadísticos
+# 📊 ERP Gerentus — Guía Profesional para Desarrollo de Gráficos Estadísticos
 
-Este documento describe la **metodología oficial** para la creación e integración de nuevos componentes de gráficos en el sistema **ERP Factronica**.  
+Este documento describe la **metodología oficial** para la creación e integración de nuevos componentes de gráficos en el sistema **ERP Gerentus**.  
 Su propósito es asegurar un desarrollo **estandarizado, escalable y mantenible**.
 
 ---
